@@ -24,7 +24,7 @@ Climate-Change-Live-API 2022 Implementation demo
     
     <script>
     
-        //use
+        //use npm to install
         const options = {
             method: 'GET',
             headers: {
