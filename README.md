@@ -24,7 +24,10 @@ Climate-Change-Live-API 2022 Implementation demo
     
     <script>
     
-        //use npm to install axios, cheerio and express
+        //using my api which gives a response of compiled climate change news from different sites
+        
+        //link to my repository
+        // https://github.com/johnwaithira/Climate-Change-Live-API
         const options = {
             method: 'GET',
             headers: {
