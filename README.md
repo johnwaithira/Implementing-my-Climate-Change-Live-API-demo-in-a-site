@@ -24,7 +24,7 @@ Climate-Change-Live-API 2022 Implementation demo
     
     <script>
     
-        //use npm to install
+        //use npm to install axios, cheerio and express
         const options = {
             method: 'GET',
             headers: {
