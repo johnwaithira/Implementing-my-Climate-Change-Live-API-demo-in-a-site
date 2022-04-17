@@ -2,7 +2,6 @@
 Climate-Change-Live-API 2022 Implementation demo
 
 ```
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
