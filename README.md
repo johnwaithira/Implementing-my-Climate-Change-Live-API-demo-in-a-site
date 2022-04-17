@@ -20,7 +20,11 @@ Climate-Change-Live-API 2022 Implementation demo
        
         </div>
     </div>
+    
+    
     <script>
+    
+        //use
         const options = {
             method: 'GET',
             headers: {
